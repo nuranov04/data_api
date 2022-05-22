@@ -7,7 +7,7 @@
 -git clone https://github.com/nuranov04/data_api
 
 
--cd data
+-cd data_api
 
 
 -python3 -m venv env
